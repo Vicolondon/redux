@@ -1,0 +1,24 @@
+{
+    "tinycards":{
+        "question1":{
+            "question":"En quelle année est sorti 'A New Hope' ?",
+            "answer":"1977"
+        },
+        "question2":{
+            "question":"Quel personnage joue Mark Hamill dans Star Wars ?",
+            "answer":"Luke Skywalker"
+        },
+        "question3":{
+            "question":"De quel couleur est le sabre laser de Luke Skywalker dans 'The Return Of The Jedi' ?",
+            "answer":"vert"
+        },
+        "question4":{
+            "question":"Que dit Darth Vador à Luke Skywalker sur Bespin ?",
+            "answer":"Je suis ton père"
+        },
+        "question5":{
+            "question":"Sur quelle planète peut-on observer le coucher des deux soleils ?",
+            "answer":"Tatooine"
+        }
+    }
+}
